@@ -1,66 +1,71 @@
+
+
+
+
+
 const perguntas = [
     {
-        enunciado: "Pergunta?",
+        enunciado: "Como você controla os gastos mensais?",
         alternativas: [
             {
-                texto: " Texto/resposta",
-                afirmacao: " Afirmação ",
+                texto: "Aplicativos de controle financeiro (planilhas digitais, apps de orçamento).",
+                afirmacao: "Você acredita que registrar tudo em tempo real ajuda a manter as contas sob controle e evitar surpresas no fim do mês.",
             },
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: "Anotações à mão em um caderno ou agenda física.",
+                afirmacao: "Você prefere o método tradicional porque sente que escrever reforça a consciência dos gastos.",
             }
         ]
     },
     {
-        enunciado: " Pergunta?",
+        enunciado: "Quando recebe um dinheiro extra (salário bônus, devolução), qual é sua primeira atitude?",
         alternativas: [
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: " Guardar parte para uma reserva de emergência ou objetivo futuro.",
+                afirmacao: "Você vê esse recurso como uma oportunidade de fortalecer sua segurança financeira.",
             },
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: "Usar imediatamente para pagar dívidas ou realizar algum desejo imediato.",
+                afirmacao: "Você prefere aplicar o valor onde ele trará alívio imediato ou satisfação pessoal.",
             }
         ]
     },
     {
-        enunciado: " Pergunta?",
+        enunciado: "Como você costuma decidir quanto vai poupar a cada mês?",
         alternativas: [
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: "Definir um percentual fixo da renda (ex.: 15 % do salário).",
+                afirmacao: "Você acredita que reservar uma porcentagem constante facilita o controle e cria o hábito de economizar.",
             },
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: "Avaliar as despesas do mês e poupar o que sobrar depois de pagar tudo.",
+                afirmacao: "Você prefere adaptar a poupança à realidade de cada período, ajustando‑se às variações de gasto.",
             }
         ]
     },
     {
-        enunciado: " Pergunta?",
+        enunciado: "Quando recebe um crédito em cartão de loja, qual a sua postura?",
         alternativas: [
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: "Pagar a fatura integralmente no vencimento para evitar juros.",
+                afirmacao: "Você prioriza manter o custo do crédito zero, mesmo que isso signifique usar parte da reserva de emergência.",
             },
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: "Aproveitar o parcelamento e pagar apenas o mínimo, usando o dinheiro para outras necessidades imediatas.",
+                afirmacao: "Você valoriza a flexibilidade de fluxo de caixa, aceitando pagar juros futuros para resolver prioridades atuais.",
             }
         ]
     },
     {
-        enunciado: " Pergunta?",
+        enunciado: "Qual estratégia você usa para controlar gastos supérfluos?",
         alternativas: [
             {
-                texto: " Texto/resposta ",
-                afirmacao: "Afirmação",
+                texto: "Criar “limites de despesa” por categoria (lazer, delivery, roupas) em um aplicativo de orçamento.",
+                afirmacao: "Você sente que limites pré‑definidos evitam surpresas e mantêm o orçamento equilibrado.",
             },
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: "Esperar 24 horas antes de fazer uma compra não planejada e reavaliar a real necessidade.",
+                afirmacao: "Você acredita que o intervalo de tempo reduz compras impulsivas e ajuda a refletir sobre prioridades.",
             }
         ]
     },
